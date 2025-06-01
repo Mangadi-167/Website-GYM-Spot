@@ -10,7 +10,7 @@
 
 
         <div class="py-8 pl-8 max-w-screen  lg:grid-cols-2 row-span-3 gap-8 lg:gap-16 p-8 h-60" style="background-color: black;">
-            <p class="text-3xl text-white font-bold"> <span class="text-yellow-300">Sejarah</span> dan <span class="text-yellow-300">latar</span> Belakang</p>
+            <p class="text-3xl text-white font-bold"> <span class="text-yellow-300">Sejarah</span> & <span class="text-yellow-300">latar</span> Belakang</p>
             <p class="text-xl text-white text-justify mt-4">Gym Spot didirikan dengan misi menghadirkan lingkungan gym yang nyaman, modern, dan <br>engkap. Berawal dari kebutuhan akan tempat latihan yang lebih terjangkau dan mudah dijangkau, <br>kami terus tumbuh menjadi platform yang melayani berbagai kebutuhan kebugaran masyarakat.</p>
         </div>
 
